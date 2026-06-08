@@ -3,7 +3,7 @@
 Sebuah website blog modern untuk semua orang. Mulai dari cerita ringan hingga pembahasan-pembahasan yang lebih serius, YourBlog akan menyediakanmu berbagai topik yang mungkin kamu suka. Dengan tampilan sederhana dengan kesan modern tentunya membuat website ini menarik untuk dikunjungi.
 
 Nama Projek(Website) : YourBlog
-Dibuat Oleh : Abyan Faatin Mayutra
+Nama : Abyan Faatin Mayutra
 NIM : 255150400111024
 Kelas : SI-D
 Mata Kuliah : Desain Antar Muka Pengguna
