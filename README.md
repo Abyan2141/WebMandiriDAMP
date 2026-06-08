@@ -2,11 +2,11 @@
 
 Sebuah website blog modern untuk semua orang. Mulai dari cerita ringan hingga pembahasan-pembahasan yang lebih serius, YourBlog akan menyediakanmu berbagai topik yang mungkin kamu suka. Dengan tampilan sederhana dengan kesan modern tentunya membuat website ini menarik untuk dikunjungi.
 
-Nama Projek(Website) : YourBlog
-Nama : Abyan Faatin Mayutra
-NIM : 255150400111024
-Kelas : SI-D
-Mata Kuliah : Desain Antar Muka Pengguna
+- Projek(Website) : YourBlog
+- Nama : Abyan Faatin Mayutra
+- NIM : 255150400111024
+- Kelas : SI-D
+- Mata Kuliah : Desain Antar Muka Pengguna
 
 Fitur Utama
 - Home Page
@@ -34,3 +34,6 @@ Teknologi Dalam Website
 - Google Fonts : tipografi
 - CSS Grid : layout yang responsif
 - Flexbox : mengatur elemen-elemen halaman website
+
+Screenshots
+- 
