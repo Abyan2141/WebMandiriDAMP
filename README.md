@@ -13,7 +13,7 @@ Fitur Utama
 - Featured Articles
 - Categories
 - Search Feature
-- Newsletter
+- Newsletter(Login)
 - Responsive Design
 
 Implementasi UI
@@ -36,4 +36,15 @@ Teknologi Dalam Website
 - Flexbox : mengatur elemen-elemen halaman website
 
 Screenshots
-- 
+- Home
+  ![Home Page](screenshots/home.png)
+- Aricles
+  ![Articles Section](screenshots/article_features.png)
+- Category
+  ![Category Section](screenshots/category.png)
+- About Us
+  ![About Us Section](screenshots/about_us.png)
+- Newsletter
+  ![Login Section](screenshots/newsletter.png)
+- Footer
+  ![Footer](screenshots/footer.png)
